@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SydneyMCDonaldbigking
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding/ai agent
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me : christianzhou77@gmail.com
+- 😄 Pronouns: EHFJ
 - ⚡ Fun fact: ...
 
 <!---
