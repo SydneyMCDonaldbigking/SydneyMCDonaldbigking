@@ -6,7 +6,7 @@ My skills are those of an ace Gundam pilot.
 
 ## 中文
 你好！我是悉尼麦当劳大王。  
-我的技能是开高达的顶级机师！
+我用agent技能是开高达！
 
 ## 日本語
 こんにちは！私はシドニー・マクドナルド・ビッグキングです。  
