@@ -1,6 +1,6 @@
 # 你好！こんにちは！ Hello!
 
-## English / 英语 / 英語
+## English
 Hi there! I'm SydneyMCDonaldbigking (悉尼麦当劳大王).  
 My skills are those of an ace Gundam pilot.
 
